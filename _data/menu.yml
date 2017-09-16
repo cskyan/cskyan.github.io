@@ -1,0 +1,22 @@
+- title: "About"
+  href: "/about/"
+  
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "CS1102 – Introduction to Computer Studies"
+      subhref: "https://www.cityu.edu.hk/ug/201516/course/CS1102.htm"
+
+# - title: "Services"
+  # href: "/services/"
+  # subcategories:
+    # - subtitle: "Application of Computing Resources"
+      # subhref: "/service/letters-of-recommendation/"
+    # - subtitle: "Letters of Recommendation"
+      # subhref: "/service/letters-of-recommendation/"
+
+- title: "Blogs"
+  href: "/blogs/"
