@@ -1,2 +1,2 @@
-# cskyan.github.io
-Personal academic website
+# Shankai Yan
+[Personal academic website](https://skyan.me)

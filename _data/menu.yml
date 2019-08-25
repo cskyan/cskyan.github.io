@@ -1,6 +1,6 @@
 - title: "About"
   href: "/about/"
-  
+
 - title: "Research"
   href: "/research/"
 
@@ -11,12 +11,14 @@
       subhref: "https://www.cityu.edu.hk/ug/201516/course/CS1102.htm"
 
 # - title: "Services"
-  # href: "/services/"
-  # subcategories:
-    # - subtitle: "Application of Computing Resources"
-      # subhref: "/service/letters-of-recommendation/"
+#   href: "/services/"
+#   subcategories:
+#     - subtitle: "biovocab"
+#       subhref: "/services/biovocab/"
+#     - subtitle: "biontoan"
+#       subhref: "/services/biontoan/"
     # - subtitle: "Letters of Recommendation"
-      # subhref: "/service/letters-of-recommendation/"
+      # subhref: "/services/letters-of-recommendation/"
 
-- title: "Blogs"
-  href: "/blogs/"
+# - title: "Blogs"
+#   href: "/blogs/"

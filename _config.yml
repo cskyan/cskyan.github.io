@@ -14,25 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shankai Yan
-email: sk.yan@my.cityu.edu.hk
+email: shankai.yan@nih.gov
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Dr. Shankai Yan's personal academic website.
+  Updated biography on About page & publications on Research page & courses on Teaching page
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://skyan.me"
-twitter_username: cskyan
-github_username:  cskyan
+googlescholar_username: Z2yqbBAAAAAJ
+researchgate_username:  Shankai_Yan
+github_username:        cskyan
+twitter_username:       cskyan
+linkedin_username:      skyan
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  
+
 # Other settings
 permalink: blogs/:year/:month/:title/
-jobtitle: "Ph.D. Candidate"
+jobtitle: "Postdoctoral Fellow"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

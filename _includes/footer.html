@@ -16,30 +16,51 @@
 		<div class="footer-col  footer-col-2">
 			<ul class="social-media-list">
 
-				{% if site.github_username %}
-				<li>
-					<a href="https://github.com/{{ site.github_username }}">
-						<i class="fa fa-github" style="color:gray"></i> {{ site.github_username }}
+				<li class>
+					{% if site.googlescholar_username %}
+					<a href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}">
+						<i class="ai ai-google-scholar-square fa-lg" style="color:gray"></i>
 					</a>
-				</li>
-				{% endif %}
+					{% endif %}
 
-				{% if site.twitter_username %}
-				<li>
-					<a href="https://twitter.com/{{ site.twitter_username }}">
-						<i class="fa fa-twitter" style="color:gray"></i> {{ site.twitter_username }}
+					{% if site.researchgate_username %}
+					<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+						<i class="fab fa-researchgate fa-lg" style="color:gray"></i>
 					</a>
+					{% endif %}
+
+					{% if site.github_username %}
+					<a href="https://github.com/{{ site.github_username }}">
+						<i class="fab fa-github fa-lg" style="color:gray"></i>
+						</a>
+					{% endif %}
 				</li>
-				{% endif %}
-			
+
+
+
+				<li>
+					{% if site.twitter_username %}
+					<a href="https://twitter.com/{{ site.twitter_username }}">
+						<i class="fab fa-twitter fa-lg" style="color:gray"></i>
+					</a>
+					{% endif %}
+
+					{% if site.linkedin_username %}
+					<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+						<i class="fab fa-linkedin-in fa-lg" style="color:gray"></i>
+					</a>
+					{% endif %}
+				</li>
+
 			</ul>
 		</div>
 
 		<div class="footer-col  footer-col-3">
 			<p class="text">
-			Department of Computer Science<br />
-			City University of Hong Kong<br />
-			Tat Chee Avenue, Kowloon, Hong Kong SAR</p> <!-- {{ site.description }} -->
+			<a href="https://www.ncbi.nlm.nih.gov/research/bionlp/">Zhiyong Lu's Bionlp Group</a><br />
+			<a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information</a><br />
+			<a href="https://www.nih.gov/">National Institutes of Health (NIH)</a><br />
+			Bethesda, Maryland, USA</p> <!-- {{ site.description }} -->
 		</div>
 	</div>
 

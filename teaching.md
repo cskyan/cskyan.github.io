@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page serves as a directory for the courses I have taught, which is freely available to current students, alumni of my classes, and any other interested observers.
+This page serves as a directory for the courses I have taught.
 
 <hr style="clear:both;visibility: hidden;" />  
 
