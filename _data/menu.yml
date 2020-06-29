@@ -20,5 +20,11 @@
     # - subtitle: "Letters of Recommendation"
       # subhref: "/services/letters-of-recommendation/"
 
+- title: "Feeds"
+  href: "/feeds/"
+  subcategories:
+    - subtitle: "COVID-19"
+      subhref: "https://skyanrss.blogspot.com/search/label/COVID-19"
+
 # - title: "Blogs"
 #   href: "/blogs/"
