@@ -4,7 +4,7 @@ title:	"PhD Study Is Just the Beginning!"
 author: Shankai
 date:	2017-09-16 19:00:00 +0800
 categories:
-  - Academic Career
+  - Academia
 tags:
   - PhD
   - Research

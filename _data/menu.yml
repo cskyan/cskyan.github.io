@@ -9,6 +9,8 @@
   subcategories:
     - subtitle: "CS1102 – Introduction to Computer Studies"
       subhref: "https://www.cityu.edu.hk/ug/201516/course/CS1102.htm"
+    - subtitle: "Online - Introduction to BioNLP"
+      subhref: "https://skyan.me/lectures/online/bionlp-intro"
 
 # - title: "Services"
 #   href: "/services/"
