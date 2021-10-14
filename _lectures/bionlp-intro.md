@@ -23,6 +23,7 @@ This course introduces BioNLP, including the objectives, tasks, methodologies, a
 3. Demonstrate the application of text mining on the knowledge databases for computational biology.
 
 # Materials
-- [Lecture Slides](https://github.com/cskyan/lecture-bionlp/blob/master/slides/Introduction%20to%20BioNLP.pdf?raw=true)
+- [Lecture Slides](https://github.com/cskyan/lecture-bionlp/blob/master/slides/Introduction%20to%20BioNLP.pdf?raw=true) [with animations](https://imgur.com/a/sCOPT5Z)
 - [Seminar Slides](https://github.com/cskyan/lecture-bionlp/blob/master/slides/Introduction%20to%20BioNLP%20-%20Seminar.pdf?raw=true)
 - [Jupyter Notebook](https://github.com/cskyan/lecture-bionlp/blob/master/notebooks/bionlp_intro.ipynb)
+- Official Pages: [HSU](https://github.com/cskyan/lecture-bionlp/blob/master/records/Summer%20School%20on%20Machine%20Learning%20in%20Bioinformatics%20%E2%80%93%20HSE%20University.pdf?raw=true)
