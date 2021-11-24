@@ -34,6 +34,8 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 ## Other Publications
 **Shankai Yan** and Ka-Chun WONG✉. (2021). [Future DNA computing device and accompanied tool stack: Towards high-throughput computation](https://doi.org/10.1016/j.future.2020.10.038). *Future Generation Computer Systems* 117: 111-124.
 
+Ka-Chun WONG✉, Jiao Zhang, **Shankai Yan**, Xiangtao Li, Qiuzhen Lin, Sam KWONG and Cheng Liang. (2019). [DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools](https://doi.org/10.1145/3340286). *ACM Computing Surveys* 52(5): 1-30.
+
 Ka-Chun WONG✉, **Shankai Yan**, Qiuzhen Lin, Xiangtao Li and Chengbin Peng. (2018). [Deleterious Non-Synonymous Single Nucleotide Polymorphism Predictions on Human Transcription Factors](https://doi.org/10.1109/TCBB.2018.2882548). *IEEE/ACM Transactions on Computational Biology and Bioinformatics* 17(1): 327-333.
 
 Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2018). [Verbal aggression detection on Twitter comments: convolutional neural network for short-text sentiment analysis](https://doi.org/10.1007/s00521-018-3442-0). *Neural Computing and Applications* 32: 10809-10818.
