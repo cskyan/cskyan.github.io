@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shankai Yan
-jobtitle: "Postdoctoral Fellow"
-email: shankai.yan@nih.gov
+jobtitle: "Associate Professor"
+email: dr.skyan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Dr. Shankai Yan's personal academic website.
   Updated biography on About page & publications on Research page & courses on Teaching page
