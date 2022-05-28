@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research interests focus on Biomedical Text Mining (BioNLP), Computational Biology, Bioinformatics, Machine Learning and Graph Learning. My current projects focuses on phenotype annotation and embedding. Here you can find materials relevant to my published papers.
+My research interests focus on Computational Healthcare, Computational Biology, Biomedical Text Mining (BioNLP), Bioinformatics, Machine Learning and Graph Learning. My current projects focuses on phenotype annotation and embedding. Here you can find materials relevant to my published papers.
 
 I also provide the titles for some working papers and projects in progress below. Full links are attached for these papers when I believe they are ready for peer review. Feel free to contact me if you are interested in some of these works.
 
@@ -48,4 +48,4 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection
 
 
 ## Working Papers and Projects in Progress
-Phenotype Concept Recognition & Phenotype Embedding
+Fine-grained Phenotype Concept Recognition & Phenotype Embedding & Phenotype-driven Gene/Disease Prioritization & Graph-embedding-based Linkage Analysis and Association Study
