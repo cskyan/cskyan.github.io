@@ -8,10 +8,12 @@ My research interests focus on Biomedical Text Mining (BioNLP), Computational Bi
 
 I also provide the titles for some working papers and projects in progress below. Full links are attached for these papers when I believe they are ready for peer review. Feel free to contact me if you are interested in some of these works.
 
-<hr style="clear:both;visibility: hidden;" />  
+<hr style="clear:both;visibility: hidden;" />
 
 
 ## Selected Publications
+
+**Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [Phenorerank](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
 
 **Shankai Yan** and Ka-Chun WONG✉. (2019). [Context awareness and embedding for biomedical event extraction](https://doi.org/10.1093/bioinformatics/btz607). *Oxford Bioinformatics* 36(2): 637-643. [Code](https://github.com/cskyan/evntextrc){: .tag} [Data](https://data.mendeley.com/datasets/mr39zgc7y5){: .tag}
 
