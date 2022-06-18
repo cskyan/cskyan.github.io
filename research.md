@@ -13,7 +13,9 @@ I also provide the titles for some working papers and projects in progress below
 
 ## Selected Publications
 
-**Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [Phenorerank](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
+**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://doi.org/). *AMIA2022(accepted)*
+
+**Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew J. Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
 
 **Shankai Yan** and Ka-Chun WONG✉. (2019). [Context awareness and embedding for biomedical event extraction](https://doi.org/10.1093/bioinformatics/btz607). *Oxford Bioinformatics* 36(2): 637-643. [Code](https://github.com/cskyan/evntextrc){: .tag} [Data](https://data.mendeley.com/datasets/mr39zgc7y5){: .tag}
 
@@ -45,6 +47,10 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2018). [Verbal aggression dete
 Ka-Chun WONG✉, Chengbin Peng, **Shankai Yan** and Cheng Liang. (2017). [Probabilistic Inference on Multiple Normalized Genome-Wide Signal Profiles With Model Regularization](https://doi.org/10.1109/TNB.2016.2631406). *IEEE Transactions on NanoBioscience* 16(1): 43-50.
 
 Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection on Social Network Comments](https://doi.org/10.1145/3059336.3059348). *Proceedings of the 2017 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence* 103-107.
+
+
+## Abstracts
+**Shankai Yan**, Kathleen Steinhofel, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (talk)
 
 
 ## Working Papers and Projects in Progress
