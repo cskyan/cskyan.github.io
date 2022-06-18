@@ -1,6 +1,9 @@
 - title: "About"
   href: "/about/"
 
+- title: "Openings"
+  href: "/openings"
+
 - title: "Research"
   href: "/research/"
 
@@ -26,7 +29,9 @@
   href: "/feeds/"
   subcategories:
     - subtitle: "COVID-19"
-      subhref: "https://skyanrss.blogspot.com/search/label/COVID-19"
+      subhref: "https://gfeeds.skyan.me/search/label/COVID-19"
+    - subtitle: "5G"
+      subhref: "https://gfeeds.skyan.me/search/label/5G"
 
 # - title: "Blogs"
 #   href: "/blogs/"
