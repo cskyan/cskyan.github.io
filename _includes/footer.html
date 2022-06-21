@@ -9,6 +9,9 @@
 			<ul class="contact-list">
 				<li><strong>{{ site.title }}</strong></li>
 				<li>{{ site.jobtitle }}</li>
+				{% if site.workurl %}
+				<li><a href="{{ site.workurl }}">Affiliation Profile</li>
+				{% endif %}
 				<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 			</ul>
 		</div>
@@ -18,27 +21,40 @@
 
 				<li class>
 					{% if site.googlescholar_username %}
-					<a href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}">
+					<a href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}" title="Google Scholar">
 						<i class="ai ai-google-scholar-square fa-lg" style="color:gray"></i>
 					</a>
 					{% endif %}
 
+					{% if site.pubmed_name %}
+					<a href="https://pubmed.ncbi.nlm.nih.gov/?term={{ site.pubmed_name }}%5BAuthor+-+Full%5D" title="Biology Only">
+						<span class="iconify" data-icon="academicons:pubmed" style="color: #888;"></span>
+					</a>
+					{% endif %}
+
+					{% if site.dblp_id %}
+					<a href="https://dblp.uni-trier.de/pid/{{ site.dblp_id }}.html" title="Computing Only">
+						<span class="iconify" data-icon="academicons:dblp" style="color: #888;"></span>
+					</a>
+					{% endif %}
+
 					{% if site.researchgate_username %}
-					<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+					<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" title="ResearchGate">
 						<i class="fab fa-researchgate fa-lg" style="color:gray"></i>
 					</a>
 					{% endif %}
 
-					{% if site.github_username %}
-					<a href="https://github.com/{{ site.github_username }}">
-						<i class="fab fa-github fa-lg" style="color:gray"></i>
-						</a>
-					{% endif %}
 				</li>
 
 
 
 				<li>
+					{% if site.github_username %}
+					<a href="https://github.com/{{ site.github_username }}">
+						<i class="fab fa-github fa-lg" style="color:gray"></i>
+						</a>
+					{% endif %}
+
 					{% if site.twitter_username %}
 					<a href="https://twitter.com/{{ site.twitter_username }}">
 						<i class="fab fa-twitter fa-lg" style="color:gray"></i>
