@@ -11,8 +11,9 @@ This page serves as a directory for the courses I have taught.
 
 ## [Hainan University](https://jxpt.hainanu.edu.cn/meol/teacherLesson.do?uid=175577)
 
-1. [Q00030](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=59629): The Python Programming Language (2022)
-<!--2. [B16000](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=): Introduction to Programming with C++ (2023)-->
+1. [Q00030](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=59629): The Python Programming Language (2022-current)
+2. [K00118](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=62331): Analysis and Design of Algorithms (2023-current)
+<!--3. [B16000](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=): Introduction to Programming with C++ (2023-current)-->
 
 
 ## CityU of Hong Kong
