@@ -13,7 +13,7 @@ I also provide the titles for some working papers and projects in progress below
 
 ## Selected Publications
 
-**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://doi.org/). *AMIA2022(accepted)*
+**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/76677-amia-1.4637602/f007-1.4641746/f007-1.4641747/358-1.4641772/347-1.4641769). *AMIA2022*
 
 **Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew J. Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
 
