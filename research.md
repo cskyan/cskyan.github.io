@@ -36,6 +36,13 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 
 ## Other Publications
+
+Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://authors.elsevier.com/c/1iAmU2OYd3tnK). *Computers in Biology and Medicine* (Accepted)
+
+Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023). *IEEE BIBM* (Accepted)
+
+Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong. (2021). Feature Selection and Feature Extraction: Highlights. *ISMSI*: 49-53.
+
 **Shankai Yan** and Ka-Chun WONG✉. (2021). [Future DNA computing device and accompanied tool stack: Towards high-throughput computation](https://doi.org/10.1016/j.future.2020.10.038). *Future Generation Computer Systems* 117: 111-124.
 
 Ka-Chun WONG✉, Jiao Zhang, **Shankai Yan**, Xiangtao Li, Qiuzhen Lin, Sam KWONG and Cheng Liang. (2019). [DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools](https://doi.org/10.1145/3340286). *ACM Computing Surveys* 52(5): 1-30.
