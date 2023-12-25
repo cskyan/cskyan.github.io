@@ -37,11 +37,16 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 ## Other Publications
 
-Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://authors.elsevier.com/c/1iAmU2OYd3tnK). *Computers in Biology and Medicine* (Accepted)
+Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](http://www.ismsi.org/). *ISMSI 2024* (Accepted)
+<!--
+*Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*
+-->
 
-Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023). *IEEE BIBM* (Accepted)
+Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://authors.elsevier.com/c/1iAmU2OYd3tnK). *Computers in Biology and Medicine* (Accepted)
 
-Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong. (2021). Feature Selection and Feature Extraction: Highlights. *ISMSI*: 49-53.
+Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023). *IEEE BIBM* (Accepted)
+
+Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). Feature Selection and Feature Extraction: Highlights. *ISMSI*: 49-53.
 
 **Shankai Yan** and Ka-Chun WONG✉. (2021). [Future DNA computing device and accompanied tool stack: Towards high-throughput computation](https://doi.org/10.1016/j.future.2020.10.038). *Future Generation Computer Systems* 117: 111-124.
 
@@ -57,7 +62,7 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection
 
 
 ## Abstracts
-**Shankai Yan**, Kathleen Steinhofel, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (talk)
+**Shankai Yan**, Kathleen Steinhofel✉, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (talk)
 
 
 ## Working Papers and Projects in Progress
