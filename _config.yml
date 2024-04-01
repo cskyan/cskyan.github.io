@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://skyan.me"
-workurl: "https://hd.hainanu.edu.cn/cs/info/1105/2390.htm"
+workurl: "https://cs.hainanu.edu.cn/info/1105/2390.htm"
 googlescholar_username: Z2yqbBAAAAAJ
 researchgate_username:  Shankai_Yan
 pubmed_name:        Shankai+Yan
