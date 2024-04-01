@@ -16,7 +16,7 @@ This page serves as a directory for the courses I have taught.
 2. [K00118](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=62331): Analysis and Design of Algorithms (2023-current)
 3. [K00126](https://jxpt.hainanu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=70955): C++ Programming (2023-current)
 
-### Graduate
+### Postgraduate
 1. [SX01631060](https://mooc1.chaoxing.com/course/241051237.html): Natural Language Processing (2024-current)
 
 ## [CityU of Hong Kong](https://scholars.cityu.edu.hk/en/persons/shankai-yan(3933390b-8f19-442b-ae80-3bf346977b4f).html)
