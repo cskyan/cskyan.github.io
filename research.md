@@ -13,7 +13,7 @@ I also provide the titles for some working papers and projects in progress below
 
 ## Selected Publications
 
-**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/76677-amia-1.4637602/f007-1.4641746/f007-1.4641747/358-1.4641772/347-1.4641769). *AMIA2022*
+**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/A2022/pdf/A2022a324/A2022fl324). *AMIA2022*
 
 **Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew J. Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
 
@@ -37,16 +37,16 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 ## Other Publications
 
-Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](http://www.ismsi.org/). *ISMSI 2024* (Accepted)
+Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/). *ISMSI 2024* (Accepted)
 <!--
 *Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*
 -->
 
-Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://authors.elsevier.com/c/1iAmU2OYd3tnK). *Computers in Biology and Medicine* (Accepted)
+Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0010482523012180). *Computers in Biology and Medicine* 168: 107753
 
-Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023). *IEEE BIBM* (Accepted)
+Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://ieeexplore.ieee.org/document/10385565). *BIBM2023*
 
-Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). Feature Selection and Feature Extraction: Highlights. *ISMSI*: 49-53.
+Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). [Feature Selection and Feature Extraction: Highlights](https://doi.org/10.1145/3461598.3461606). *Proceedings of the 2021 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*: 49-53.
 
 **Shankai Yan** and Ka-Chun WONG✉. (2021). [Future DNA computing device and accompanied tool stack: Towards high-throughput computation](https://doi.org/10.1016/j.future.2020.10.038). *Future Generation Computer Systems* 117: 111-124.
 
