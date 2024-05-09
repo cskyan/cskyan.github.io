@@ -40,6 +40,9 @@ plugins:
 # URL settings
 permalink: blogs/:categories/:title
 collections:
+  editorships:
+    output: true
+    permalink: /editorships/:categories/:path
   lectures:
     output: true
     permalink: /lectures/:categories/:path

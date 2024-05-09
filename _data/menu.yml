@@ -7,6 +7,12 @@
 - title: "Research"
   href: "/research/"
 
+- title: "Editorships"
+  href: "/editorships/"
+  subcategories:
+    - subtitle: "CSBJ - Generative AI in Computational Biology and Bioinformatics"
+      subhref: "https://skyan.me/editorships/special-issue/csbj-genai4cbb"
+
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
