@@ -18,7 +18,8 @@ comments: false
 
 *The main scope of the upcoming special issue focused on "Generative AI in Computational Biology and Bioinformatics" would be to offer highlights in the field covering the relevant topics from generative AI to computational biology and bioinformatics.*
 
-![csbj-generative-ai](https://api.journals.elsevier.com/media/shwpsp0b/2405060645_csbj-generative-ai_image.png?width=508&height=286&mode=max "Generative AI in Computational Biology and Bioinformatics")
+<!-- ![csbj-generative-ai](https://api.journals.elsevier.com/media/shwpsp0b/2405060645_csbj-generative-ai_image.png?width=508&height=286&mode=max "Generative AI in Computational Biology and Bioinformatics") -->
+![csbj-generative-ai]({{ site.url }}/images/csbj-genai4cbb.png "Generative AI in Computational Biology and Bioinformatics")
 
 
 # Guest Editors
