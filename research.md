@@ -37,6 +37,16 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 ## Other Publications
 
+Yuchen Ma, Buchao Zhan, Jianhua Yu and **Shankai Yan**✉. (2024). [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://doi.org/). *ICCIA 2024* (Accepted)
+<!--
+*Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
+-->
+
+Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instruction Classifier Model Alleviates the Hallucination of Large Language Models in Traditional Chinese Medicine](https://doi.org/). *ICCIA 2024* (Accepted)
+<!--
+*Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
+-->
+
 Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/). *ISMSI 2024* (Accepted)
 <!--
 *Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*
@@ -44,7 +54,7 @@ Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [Bi
 
 Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0010482523012180). *Computers in Biology and Medicine* 168: 107753
 
-Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://ieeexplore.ieee.org/document/10385565). *BIBM2023*
+Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://ieeexplore.ieee.org/document/10385565). *BIBM 2023*
 
 Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). [Feature Selection and Feature Extraction: Highlights](https://doi.org/10.1145/3461598.3461606). *Proceedings of the 2021 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*: 49-53.
 
