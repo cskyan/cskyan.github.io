@@ -47,10 +47,7 @@ Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instructio
 *Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
 -->
 
-Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/). *ISMSI 2024* (Accepted)
-<!--
-*Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*
--->
+Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/10.1145/3665065.3665081). *Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence* 100-104.
 
 Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0010482523012180). *Computers in Biology and Medicine* 168: 107753
 
@@ -76,4 +73,4 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection
 
 
 ## Working Papers and Projects in Progress
-Fine-grained Phenotype Concept Recognition & Phenotype Embedding & Phenotype-driven Gene/Disease Prioritization & Graph-embedding-based Linkage Analysis and Association Study
+Heterogeneous Graph based Phenotype Embedding & Phenotype-driven Gene/Disease Prioritization with HyperGraph Embedding & Graph-embedding-based Linkage Analysis and Association Study & Biomedical Question Answering with Knowledge Graphs and Chain of Thought & Detection of Psychological Abnormality from Social Media & Food-Ingredients-Phenotype/Disase Relation Recognition & Single-cell Sequencing Data Encoder for Drug Perturbation Prediction.
