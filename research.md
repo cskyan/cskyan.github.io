@@ -13,6 +13,8 @@ I also provide the titles for some working papers and projects in progress below
 
 ## Selected Publications
 
+Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/RARoK){: .tag}
+
 **Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/A2022/pdf/A2022a324/A2022fl324). *AMIA2022*
 
 **Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew J. Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
@@ -51,7 +53,7 @@ Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [Bi
 
 Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0010482523012180). *Computers in Biology and Medicine* 168: 107753
 
-Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://ieeexplore.ieee.org/document/10385565). *BIBM 2023*
+Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://doi.org/10.1109/BIBM58861.2023.10385565). *BIBM 2023*
 
 Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). [Feature Selection and Feature Extraction: Highlights](https://doi.org/10.1145/3461598.3461606). *Proceedings of the 2021 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*: 49-53.
 
