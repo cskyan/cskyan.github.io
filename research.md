@@ -4,16 +4,16 @@ title: Research
 permalink: /research/
 ---
 
-My research interests focus on Computational Healthcare, Computational Biology, Biomedical Text Mining (BioNLP), Bioinformatics, Machine Learning and Graph Learning. My current projects focuses on phenotype annotation and embedding. Here you can find materials relevant to my published papers.
-
-I also provide the titles for some working papers and projects in progress below. Full links are attached for these papers when I believe they are ready for peer review. Feel free to contact me if you are interested in some of these works.
+My research interests focus on Computational Healthcare, Computational Biology, Biomedical Text Mining (BioNLP), Bioinformatics, Machine Learning and Graph Learning.
 
 <hr style="clear:both;visibility: hidden;" />
 
 
 ## Selected Publications
 
-Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/RARoK){: .tag}
+Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *ICONIP2024* (Accepted) [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
+
+Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/RARoK){: .tag} [Data](https://github.com/cskyan/RARoK/tree/master/data){: .tag}
 
 **Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/A2022/pdf/A2022a324/A2022fl324). *AMIA2022*
 
@@ -51,7 +51,7 @@ Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instructio
 
 Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/10.1145/3665065.3665081). *Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence* 100-104.
 
-Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0010482523012180). *Computers in Biology and Medicine* 168: 107753
+Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://doi.org/10.1016/j.compbiomed.2023.107753). *Computers in Biology and Medicine* 168: 107753
 
 Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://doi.org/10.1109/BIBM58861.2023.10385565). *BIBM 2023*
 
