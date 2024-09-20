@@ -39,12 +39,14 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 ## Other Publications
 
-Yuchen Ma, Buchao Zhan, Jianhua Yu and **Shankai Yan**✉. (2024). [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://doi.org/). *ICCIA 2024* (Accepted)
+Siqi Dong, Buchao Zhan and **Shankai Yan**✉. (2024). [Food Named Entity Recognition with BERT and Adversarial Training](https://doi.org/). *MLNLP2024* (Accepted)
+
+Yuchen Ma, Buchao Zhan, Jianhua Yu and **Shankai Yan**✉. (2024). [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://doi.org/). *ICCIA2024* (Accepted)
 <!--
 *Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
 -->
 
-Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instruction Classifier Model Alleviates the Hallucination of Large Language Models in Traditional Chinese Medicine](https://doi.org/). *ICCIA 2024* (Accepted)
+Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instruction Classifier Model Alleviates the Hallucination of Large Language Models in Traditional Chinese Medicine](https://doi.org/). *ICCIA2024* (Accepted)
 <!--
 *Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
 -->
