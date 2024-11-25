@@ -43,23 +43,17 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 Siqi Dong, Buchao Zhan and **Shankai Yan**✉. (2024). [Food Named Entity Recognition with BERT and Adversarial Training](https://doi.org/). *MLNLP2024* (Accepted)
 
-Yuchen Ma, Buchao Zhan, Jianhua Yu and **Shankai Yan**✉. (2024). [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://doi.org/). *ICCIA2024* (Accepted)
-<!--
-*Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
--->
+Yuchen Ma, Buchao Zhan, Jianhua Yu and **Shankai Yan**✉. (2024). [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://doi.org/10.1109/ICCIA62557.2024.10719112). *Proceedings of the 2024 IEEE 9th International Conference on Computational Intelligence and Applications* 84-88.
 
-Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instruction Classifier Model Alleviates the Hallucination of Large Language Models in Traditional Chinese Medicine](https://doi.org/). *ICCIA2024* (Accepted)
-<!--
-*Proceedings of the 2024 International Conference on Computational Intelligence and Applications*
--->
+Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instruction Classifier Model Alleviates the Hallucination of Large Language Models in Traditional Chinese Medicine](https://doi.org/10.1109/ICCIA62557.2024.10719061). *Proceedings of the 2024 IEEE 9th International Conference on Computational Intelligence and Applications* 221-225.
 
 Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/10.1145/3665065.3665081). *Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence* 100-104.
 
-Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://doi.org/10.1016/j.compbiomed.2023.107753). *Computers in Biology and Medicine* 168: 107753
+Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://doi.org/10.1016/j.compbiomed.2023.107753). *Computers in Biology and Medicine* 168: 107753.
 
-Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://doi.org/10.1109/BIBM58861.2023.10385565). *BIBM 2023*
+Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://doi.org/10.1109/BIBM58861.2023.10385565). *Proceedings of the 2023 IEEE International Conference on Bioinformatics and Biomedicine* 23-29.
 
-Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). [Feature Selection and Feature Extraction: Highlights](https://doi.org/10.1145/3461598.3461606). *Proceedings of the 2021 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence*: 49-53.
+Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Xiangtao Li, Ka-Chun Wong✉. (2021). [Feature Selection and Feature Extraction: Highlights](https://doi.org/10.1145/3461598.3461606). *Proceedings of the 2021 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence* 49-53.
 
 **Shankai Yan** and Ka-Chun WONG✉. (2021). [Future DNA computing device and accompanied tool stack: Towards high-throughput computation](https://doi.org/10.1016/j.future.2020.10.038). *Future Generation Computer Systems* 117: 111-124.
 
