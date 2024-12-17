@@ -11,13 +11,17 @@ My research interests focus on Computational Healthcare, Computational Biology, 
 
 ## Selected Publications
 
-Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *ICONIP2024* (Accepted) [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
+Jiangbo Zhang, Feifei Cui, Zilong Zhang, Qingchen Zhang, and **Shankai Yan**✉. (2025). [DBODL: Combined dung beetle optimizer deep learning model for predicting RNA-protein binding sites](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/DBODL){: .tag} [Data](https://github.com/cskyan/DBODL){: .tag}
+
+Xin Yang, Dongmei He, Buchao Zhan, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag}
+
+Dongmei He, Buchao Zhan, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
+
+Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
 
 Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/RARoK){: .tag} [Data](https://github.com/cskyan/RARoK/tree/master/data){: .tag}
 
 Dongmei He, Xin Yang, Buchao Zhan, Zilong Zhang, Qingchen Zhang, and **Shankai Yan**✉. (2024). [Augmented Mycobiome-Based Cancer Detection by an Interpretable Large Model](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/MCaPred){: .tag} [Data](https://github.com/cskyan/MCaPred/blob/master/data.zip){: .tag}
-
-**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/A2022/pdf/A2022a324/A2022fl324). *AMIA2022*
 
 **Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew J. Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
 
@@ -40,6 +44,11 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 
 ## Other Publications
+
+Xin Yang, Dongmei He, Buchao Zhan, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2024). [Attention-aware rare disease diagnosis via Graph Attention Neural Network](https://doi.org/). *ICCBB2024* (Accepted)
+
+Dongmei He, Xin Yang, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2024). [BMPCD: A pan-cancer detection method base on learning
+cross-domain features](https://doi.org/). *ICCBB2024* (Accepted)
 
 Siqi Dong, Buchao Zhan and **Shankai Yan**✉. (2024). [Food Named Entity Recognition with BERT and Adversarial Training](https://doi.org/). *MLNLP2024* (Accepted)
 
@@ -69,8 +78,6 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection
 
 
 ## Abstracts
-**Shankai Yan**, Kathleen Steinhofel✉, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (talk)
+**Shankai Yan**, Kathleen Steinhofel✉, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (Talk)
 
-
-## Working Papers and Projects in Progress
-Heterogeneous Graph based Phenotype Embedding & Phenotype-driven Gene/Disease Prioritization with HyperGraph Embedding & Graph-embedding-based Linkage Analysis and Association Study & Biomedical Question Answering with Knowledge Graphs and Chain of Thought & Detection of Psychological Abnormality from Social Media & Food-Ingredients-Phenotype/Disase Relation Recognition & Single-cell Sequencing Data Encoder for Drug Perturbation Prediction.
+**Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/A2022/pdf/A2022a324/A2022fl324). *AMIA2022*. (Podium Abstract)
