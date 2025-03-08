@@ -19,9 +19,9 @@ Dongmei He, Buchao Zhan, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025).
 
 Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
 
-Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/RARoK){: .tag} [Data](https://github.com/cskyan/RARoK/tree/master/data){: .tag}
+Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/10.1109/BIBM62325.2024.10822341). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2024)* [Code](https://github.com/cskyan/RARoK){: .tag} [Data](https://github.com/cskyan/RARoK/tree/master/data){: .tag}
 
-Dongmei He, Xin Yang, Buchao Zhan, Zilong Zhang, Qingchen Zhang, and **Shankai Yan**✉. (2024). [Augmented Mycobiome-Based Cancer Detection by an Interpretable Large Model](https://doi.org/). *BIBM2024* (Accepted) [Code](https://github.com/cskyan/MCaPred){: .tag} [Data](https://github.com/cskyan/MCaPred/blob/master/data.zip){: .tag}
+Dongmei He, Xin Yang, Buchao Zhan, Zilong Zhang, Qingchen Zhang, and **Shankai Yan**✉. (2024). [Augmented Mycobiome-Based Cancer Detection by an Interpretable Large Model](https://doi.org/10.1109/BIBM62325.2024.10822416). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2024)* [Code](https://github.com/cskyan/MCaPred){: .tag} [Data](https://github.com/cskyan/MCaPred/blob/master/data.zip){: .tag}
 
 **Shankai Yan**, Ling Luo, Po-Ting Lai, Daniel Veltri, Andrew J. Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, and Zhiyong Lu✉. (2022). [PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology](https://doi.org/10.1016/j.jbi.2022.104059). *Journal of Biomedical Informatics* 129: 104059. [Code](https://github.com/ncbi-nlp/PhenoRerank){: .tag} [Data](https://data.mendeley.com/datasets/v4t59p8w4z){: .tag}
 
@@ -78,6 +78,12 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection
 
 
 ## Abstracts
-**Shankai Yan**, Kathleen Steinhofel✉, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (Talk)
 
 **Shankai Yan**, Ling Luo, Li Fang, Daniel Veltri, Andrew J. Oler, Rajarshi Ghosh, Chih-Hsuan Wei, Morgan Similuk, Kai Wang, and Zhiyong Lu✉. (2022). [PhenoGene: Disease-gene prioritization using graph embedding on patient phenotypic profiles](https://knowledge.amia.org/A2022/pdf/A2022a324/A2022fl324). *AMIA2022*. (Podium Abstract)
+
+**Shankai Yan**, Kathleen Steinhofel✉, Paul Bates, Mariam Molokhia. (2018). Novel HLA Subclass Clustering methods to characterize Liver Toxicity Phenotype. *ACPE 2018*. (Talk)
+
+
+## Invited Talks
+
+[Knowledge-Graph-Enhanced Language Processing for Biomedical Applications](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/63328) *MLNLP2024*
