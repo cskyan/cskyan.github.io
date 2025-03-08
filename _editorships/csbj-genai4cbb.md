@@ -16,6 +16,8 @@ comments: false
 
 ***[Special Issue for Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal/about/call-for-papers#generative-ai-in-computational-biology-and-bioinformatics)***
 
+**Submission deadline: 31 December 2024**
+
 *The main scope of the upcoming special issue focused on "Generative AI in Computational Biology and Bioinformatics" would be to offer highlights in the field covering the relevant topics from generative AI to computational biology and bioinformatics.*
 
 <!-- ![csbj-generative-ai](https://api.journals.elsevier.com/media/shwpsp0b/2405060645_csbj-generative-ai_image.png?width=508&height=286&mode=max "Generative AI in Computational Biology and Bioinformatics") -->

@@ -10,4 +10,4 @@ This page lists the journals or special issues for which I have served as an edi
 
 
 ## Special Issues 
-1. [CSBJ](https://skyan.me/editorships/special-issue/csbj-genai4cbb): Generative AI in Computational Biology and Bioinformatics (May 2024 - current)
+1. [CSBJ](https://skyan.me/editorships/special-issue/csbj-genai4cbb): Generative AI in Computational Biology and Bioinformatics (May 2024 - Dec 2024)
