@@ -17,7 +17,7 @@ Xin Yang, Dongmei He, Buchao Zhan, Zilong Zhang, Feifei Cui, Qingchen Zhang, and
 
 Dongmei He, Buchao Zhan, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
 
-Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
+<!-- Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag} -->
 
 Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/10.1109/BIBM62325.2024.10822341). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2024)* [Code](https://github.com/cskyan/RARoK){: .tag} [Data](https://github.com/cskyan/RARoK/tree/master/data){: .tag}
 
