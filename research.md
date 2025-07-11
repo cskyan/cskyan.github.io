@@ -11,13 +11,13 @@ My research interests focus on Computational Healthcare, Computational Biology, 
 
 ## Selected Publications
 
-Xin Yang, Dongmei He, Buchao Zhan, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag}
+Buchao Zhan, Xin Yang, Dongmei He, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag}
 
 Dongmei He, Buchao Zhan, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
 
-Jiangbo Zhang, Yunhui Peng, Feifei Cui, Zilong Zhang, **Shankai Yan**✉, and Qingchen Zhang✉. (2025). [RMDNet: RNA-aware dung beetle optimization-based multi-branch integration network for RNA-protein](https://doi.org/). *BMC Bioinformatics (Accepted)* [Code](https://github.com/cskyan/RMDNet){: .tag} [Data](https://github.com/cskyan/RMDNet){: .tag}
+Jiangbo Zhang, Yunhui Peng, Feifei Cui, Zilong Zhang, **Shankai Yan**✉, and Qingchen Zhang✉. (2025). [RMDNet: RNA-aware dung beetle optimization-based multi-branch integration network for RNA-protein](https://doi.org/10.1186/s12859-025-06197-y). *BMC Bioinformatics* 26: 176. [Code](https://github.com/cskyan/RMDNet){: .tag} [Data](https://github.com/cskyan/RMDNet){: .tag}
 
-Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/). *International Conference on Neural Information Processing (ICONIP2024)* [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
+Buchao Zhan, Yucong Duan, Xin Yang, Dongmei He, and **Shankai Yan**✉. (2024). [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question](https://doi.org/10.1007/978-981-96-6599-0_9). *International Conference on Neural Information Processing (ICONIP2024)* [Code](https://github.com/cskyan/Text2SPARQL){: .tag} [Data](https://github.com/cskyan/Text2SPARQL/tree/master/data){: .tag}
 
 Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, and **Shankai Yan**✉. (2024). [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/10.1109/BIBM62325.2024.10822341). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2024)* [Code](https://github.com/cskyan/RARoK){: .tag} [Data](https://github.com/cskyan/RARoK/tree/master/data){: .tag}
 
