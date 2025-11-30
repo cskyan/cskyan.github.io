@@ -13,7 +13,9 @@ My research interests focus on Computational Healthcare, Computational Biology, 
 
 Buchao Zhan, Xin Yang, Dongmei He, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag}
 
-Dongmei He, Buchao Zhan, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
+Buchao Zhan, Dongmei He, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/). *Accepted* [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
+
+Xin Li, Buchao Zhan, Jiangbo Zhang, and **Shankai Yan**✉. (2025). [scCAVAE: Predicting Perturbation Responses by Modeling Synergistic Interactions with Attention and Hierarchical Supervised Contrastive Learning](https://doi.org/). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2025)* [Code](https://github.com/cskyan/scCAVAE){: .tag} [Data](https://github.com/cskyan/scCAVAE/tree/master/data){: .tag}
 
 Jiangbo Zhang, Yunhui Peng, Feifei Cui, Zilong Zhang, **Shankai Yan**✉, and Qingchen Zhang✉. (2025). [RMDNet: RNA-aware dung beetle optimization-based multi-branch integration network for RNA-protein](https://doi.org/10.1186/s12859-025-06197-y). *BMC Bioinformatics* 26: 176. [Code](https://github.com/cskyan/RMDNet){: .tag} [Data](https://github.com/cskyan/RMDNet){: .tag}
 
@@ -47,11 +49,11 @@ Ka-Chun WONG✉, Junyi Chen, Jiao Zhang, Jiecong Lin, **Shankai Yan**, Shxiong Z
 
 Ruiqi Liu, **Shankai Yan**, Zilong Zhang, Junlin Xu, Yajie Meng, Qingchen Zhang, Leyi Wei, Quan Zou, Feifei Cui✉. (2025). [PLM-IL4: Enhancing IL-4-inducing peptide prediction with protein language model](https://doi.org/10.1016/j.compbiolchem.2025.108448). *Computational Biology and Chemistry*  118: 108448.
 
-Xin Yang, Dongmei He, Buchao Zhan, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2024). [Attention-aware rare disease diagnosis via Graph Attention Neural Network](https://doi.org/). *ICCBB2024* (Accepted)
+Xin Yang, Dongmei He, Buchao Zhan, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2024). [Attention-aware rare disease diagnosis via Graph Attention Neural Network](https://doi.org/10.1145/3715020.3715060). *Proceedings of the 2024 8th International Conference on Computational Biology and Bioinformatics (ICCBB2024)* 151-156.
 
-Dongmei He, Xin Yang, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2024). [BMPCD: A pan-cancer detection method base on learning cross-domain features](https://doi.org/). *ICCBB2024* (Accepted)
+Dongmei He, Xin Yang, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2024). [BMPCD: A pan-cancer detection method base on learning cross-domain features](https://doi.org/10.1145/3715020.3715056). *Proceedings of the 2024 8th International Conference on Computational Biology and Bioinformatics (ICCBB2024)* 126-130.
 
-Siqi Dong, Buchao Zhan and **Shankai Yan**✉. (2024). [Food Named Entity Recognition with BERT and Adversarial Training](https://doi.org/10.1109/MLNLP63328.2024.10799955). *IEEE International Conference on Machine Learning and Natural Language Processing (MLNLP2024)* (Accepted)
+Siqi Dong, Buchao Zhan and **Shankai Yan**✉. (2024). [Food Named Entity Recognition with BERT and Adversarial Training](https://doi.org/10.1109/MLNLP63328.2024.10799955). *IEEE International Conference on Machine Learning and Natural Language Processing (MLNLP2024)* 1-6.
 
 Yuchen Ma, Buchao Zhan, Jianhua Yu and **Shankai Yan**✉. (2024). [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://doi.org/10.1109/ICCIA62557.2024.10719112). *Proceedings of the 2024 IEEE 9th International Conference on Computational Intelligence and Applications* 84-88.
 
