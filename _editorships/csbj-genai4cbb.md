@@ -14,7 +14,7 @@ excerpt: ""
 comments: false
 ---
 
-***[Special Issue for Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal/about/call-for-papers#generative-ai-in-computational-biology-and-bioinformatics)***
+***[Special Issue for Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/special-issue/1031MR0H5V3)***
 
 **Submission deadline: 31 December 2024**
 
