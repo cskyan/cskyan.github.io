@@ -11,11 +11,13 @@ My research interests focus on Computational Healthcare, Computational Biology, 
 
 ## Selected Publications
 
-Buchao Zhan, Xin Yang, Dongmei He, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Under Review* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag}
+Chengye Hu, Buchao Zhan, Li Yuan, Wenqi Fan, and **Shankai Yan**✉. (2026). [Consensus-on-Graph: Plan-Driven Exploration and Consensus Decision-Making on Knowledge Graphs](https://doi.org/). *31st International Conference on Database Systems for Advanced Applications (DASFAA2026)* *Accepted* [Code](https://github.com/cskyan/CoG){: .tag} [Data](https://github.com/cskyan/CoG/tree/master/data){: .tag}
 
-Buchao Zhan, Dongmei He, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/). *Accepted* [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
+<!-- Buchao Zhan, Xin Yang, Dongmei He, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Computers in Biology and Medicine* *Accepted* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag} -->
 
-Xin Li, Buchao Zhan, Jiangbo Zhang, and **Shankai Yan**✉. (2025). [scCAVAE: Predicting Perturbation Responses by Modeling Synergistic Interactions with Attention and Hierarchical Supervised Contrastive Learning](https://doi.org/). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2025)* [Code](https://github.com/cskyan/scCAVAE){: .tag} [Data](https://github.com/cskyan/scCAVAE/tree/master/data){: .tag}
+Buchao Zhan, Dongmei He, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/10.1109/TCBBIO.2025.3639775). *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
+
+Xin Li, Buchao Zhan, Jiangbo Zhang, and **Shankai Yan**✉. (2025). [scCAVAE: Predicting Perturbation Responses by Modeling Synergistic Interactions with Attention and Hierarchical Supervised Contrastive Learning](https://doi.org/10.1109/BIBM66473.2025.11356521). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2025)* [Code](https://github.com/cskyan/scCAVAE){: .tag} [Data](https://github.com/cskyan/scCAVAE/tree/master/data){: .tag}
 
 Jiangbo Zhang, Yunhui Peng, Feifei Cui, Zilong Zhang, **Shankai Yan**✉, and Qingchen Zhang✉. (2025). [RMDNet: RNA-aware dung beetle optimization-based multi-branch integration network for RNA-protein](https://doi.org/10.1186/s12859-025-06197-y). *BMC Bioinformatics* 26: 176. [Code](https://github.com/cskyan/RMDNet){: .tag} [Data](https://github.com/cskyan/RMDNet){: .tag}
 
@@ -61,7 +63,7 @@ Buchao Zhan, Yucong Duan and **Shankai Yan**✉. (2024). [IC-BERT: An Instructio
 
 Yanbo Han, Buchao Zhan, Bin Zhang, Chao Zhao and **Shankai Yan**✉. (2024). [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://doi.org/10.1145/3665065.3665081). *Proceedings of the 2024 International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence* 100-104.
 
-Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://doi.org/10.1016/j.compbiomed.2023.107753). *Computers in Biology and Medicine* 168: 107753.
+<!-- Zhe Liu, Hiu-Man Wong, Xingjian Chen, Jiecong Lin, Shixiong Zhang, **Shankai Yan**, Fuzhou Wang, Xiangtao Li, Ka-Chun Wong✉. (2023). [MotifHub: Detection of trans-acting DNA motif group with probabilistic modeling algorithm](https://doi.org/10.1016/j.compbiomed.2023.107753). *Computers in Biology and Medicine* 168: 107753. -->
 
 Ruiqi Liu, Xiuhao Fu, **Shankai Yan**, Zilong Zhang✉, and Feifei Cui. (2023). [AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies](https://doi.org/10.1109/BIBM58861.2023.10385565). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2023)* 23-29.
 
