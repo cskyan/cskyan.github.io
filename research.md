@@ -11,13 +11,17 @@ My research interests focus on Computational Healthcare, Computational Biology, 
 
 ## Selected Publications
 
-Chengye Hu, Buchao Zhan, Li Yuan, Wenqi Fan, and **Shankai Yan**✉. (2026). [Consensus-on-Graph: Plan-Driven Exploration and Consensus Decision-Making on Knowledge Graphs](https://doi.org/). *31st International Conference on Database Systems for Advanced Applications (DASFAA2026)* *Accepted* [Code](https://github.com/cskyan/CoG){: .tag} [Data](https://github.com/cskyan/CoG/tree/master/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
+Guanwen Song, Jiming Lyu, Jianhua Yu, Peipei Wang, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2026). [CCP-CBT: A Cognitive Conceptualization and Plan-based Multi-turn Dialogue Reconstruction and Evaluation Framework for CBT Psychological Counseling](https://doi.org/). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2026)* *Accepted* [Code](https://github.com/cskyan/CCP-CBT){: .tag} [Data](https://github.com/cskyan/CCP-CBT/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
 
-<!-- Buchao Zhan, Xin Yang, Dongmei He, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2025). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/). *Computers in Biology and Medicine* *Accepted* [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag} -->
+Haonan Wang, Mingjun Chen, Shangjun Liu, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2026). [PhenoBridge: A Medical Knowledge Graph-Based Method for Phenotype-Driven Mendelian Disease Gene Prioritization](https://doi.org/). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2026)* *Accepted* [Code](https://github.com/cskyan/PhenoBridge){: .tag} [Data](https://github.com/cskyan/PhenoBridge/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
 
-Buchao Zhan, Dongmei He, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/10.1109/TCBBIO.2025.3639775). *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
+Chengye Hu, Buchao Zhan, Li Yuan, Wenqi Fan, and **Shankai Yan**✉. (2026). [Consensus-on-Graph: Plan-Driven Exploration and Consensus Decision-Making on Knowledge Graphs](https://doi.org/10.1007/978-981-92-0369-7_32). *31st International Conference on Database Systems for Advanced Applications (DASFAA2026)* [Code](https://github.com/cskyan/CoG){: .tag} [Data](https://github.com/cskyan/CoG/tree/master/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
 
-Xin Li, Buchao Zhan, Jiangbo Zhang, and **Shankai Yan**✉. (2025). [scCAVAE: Predicting Perturbation Responses by Modeling Synergistic Interactions with Attention and Hierarchical Supervised Contrastive Learning](https://doi.org/10.1109/BIBM66473.2025.11356521). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2025)* [Code](https://github.com/cskyan/scCAVAE){: .tag} [Data](https://github.com/cskyan/scCAVAE/tree/master/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
+<!-- Buchao Zhan, Xin Yang, Dongmei He, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2026). [Het2Gene : a phenotype-driven model for gene prioritization by Heterogeneous graph embedding](https://doi.org/10.1016/j.compbiomed.2026.111543). *Computers in Biology and Medicine* 205: 111543. [Code](https://github.com/cskyan/Het2Gene){: .tag} [Data](https://github.com/cskyan/Het2Gene){: .tag} -->
+
+Buchao Zhan, Dongmei He, Xin Yang, Zilong Zhang, and **Shankai Yan**✉. (2025). [FNatPred: a data-driven approach for distinguishing between NAT and Tumor on the fungal microbiome](https://doi.org/10.1109/TCBBIO.2025.3639775). *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. [Code](https://github.com/cskyan/FNatPred){: .tag} [Data](https://github.com/cskyan/FNatPred){: .tag}
+
+Xin Li, Buchao Zhan, Jiangbo Zhang, and **Shankai Yan**✉. (2025). [scCAVAE: Predicting Perturbation Responses by Modeling Synergistic Interactions with Attention and Hierarchical Supervised Contrastive Learning](https://doi.org/10.1109/BIBM66473.2025.11356521). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2025)* [Code](https://github.com/cskyan/scCAVAE){: .tag} [Data](https://github.com/cskyan/scCAVAE/tree/master/data){: .tag}
 
 Jiangbo Zhang, Yunhui Peng, Feifei Cui, Zilong Zhang, **Shankai Yan**✉, and Qingchen Zhang✉. (2025). [RMDNet: RNA-aware dung beetle optimization-based multi-branch integration network for RNA-protein](https://doi.org/10.1186/s12859-025-06197-y). *BMC Bioinformatics* 26: 176. [Code](https://github.com/cskyan/RMDNet){: .tag} [Data](https://github.com/cskyan/RMDNet){: .tag}
 
@@ -90,5 +94,7 @@ Junyi Chen, **Shankai Yan** and Ka-Chun WONG✉. (2017). [Aggressivity Detection
 
 
 ## Invited Talks
+
+[Applications of Large Language Models and Knowledge Graphs in Smart Healthcare](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/69124) *CSECS2026*
 
 [Knowledge-Graph-Enhanced Language Processing for Biomedical Applications](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/63328) *MLNLP2024*
