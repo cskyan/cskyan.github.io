@@ -11,6 +11,8 @@ My research interests focus on Computational Healthcare, Computational Biology, 
 
 ## Selected Publications
 
+Jiangbo Zhang, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2026). [PertiNet: Interaction-Aware Multimodal Modeling of Protein–Protein Interaction](https://doi.org/10.1021/acs.jcim.6c03062). *Journal of Chemical Information and Modeling*  [Code](https://github.com/cskyan/PertiNet){: .tag} [Data](https://github.com/cskyan/PertiNet/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
+
 Guanwen Song, Jiming Lyu, Jianhua Yu, Peipei Wang, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2026). [CCP-CBT: A Cognitive Conceptualization and Plan-based Multi-turn Dialogue Reconstruction and Evaluation Framework for CBT Psychological Counseling](https://doi.org/). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2026)* *Accepted* [Code](https://github.com/cskyan/CCP-CBT){: .tag} [Data](https://github.com/cskyan/CCP-CBT/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
 
 Haonan Wang, Mingjun Chen, Shangjun Liu, Zilong Zhang, Feifei Cui, Qingchen Zhang, and **Shankai Yan**✉. (2026). [PhenoBridge: A Medical Knowledge Graph-Based Method for Phenotype-Driven Mendelian Disease Gene Prioritization](https://doi.org/). *IEEE International Conference on Bioinformatics and Biomedicine (BIBM2026)* *Accepted* [Code](https://github.com/cskyan/PhenoBridge){: .tag} [Data](https://github.com/cskyan/PhenoBridge/data){: .tag} <img src="/images/new-sticker.png" style="max-height: 1.2em; vertical-align: middle;" />
